@@ -1,0 +1,15 @@
+{
+  "name": "ProjectOne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "S.L.Mupfukudzwa",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
