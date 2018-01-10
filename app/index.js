@@ -1,2 +1,10 @@
 /*jshint esversion: 6 */ 
-console.log("Hello World from Webpack + ES6 Lets get started!");
+const arrNum = [1,2,3];
+arrNum.push(4,5);
+console.log(arrNum);
+
+
+let a ="hello";
+let b ="world";
+let c =`my first ES6 ${a} ${b} example`;
+console.log(c);
