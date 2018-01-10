@@ -6,5 +6,5 @@ console.log(arrNum);
 
 let a ="hello";
 let b ="world";
-let c =`my first ES6 ${a} ${b} example`;
+let c =`Hello ES6 & ${a} ${b} today!`;
 console.log(c);
